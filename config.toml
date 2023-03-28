@@ -1,0 +1,4 @@
+baseURL = 'http://Firestorm.github.io/'
+languageCode = 'en-us'
+title = 'Elliot LEE'
+theme = 'ananke'
