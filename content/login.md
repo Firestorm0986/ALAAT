@@ -1,8 +1,8 @@
 ---
-title: About
+title: Sign up/in
 featured_image: ''
 omit_header_text: true
-description: We'd love to hear from you
+description: a page for sign up and sign in
 type: page
 menu: main
 
