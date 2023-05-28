@@ -9,5 +9,3 @@ menu: main
 ---
 
 
-
-![](../images/Agile.jpg)
