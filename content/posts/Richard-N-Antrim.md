@@ -4,7 +4,8 @@ featured_image: "/images/Richard_Antrim.jpg"
 description: A page dedicated to Richard N. Antrim
 date: 2023-05-23
 ---
-{{< index >}}   
+
+{{< Richard-Antrim >}}
 
 ## Summary
 Richard Nott Antrim, a naval officer and Medal of Honor recipient, exemplified the true meaning of brotherhood and sacrifice during World War II. As the executive officer of the U.S.S. Pope, he displayed exceptional leadership and courage when the ship sank, ensuring the survival of his crew. Later, as a prisoner of war, Antrim risked his own life by taking the remaining lashes of a brutal punishment intended for a fellow prisoner, demonstrating unparalleled selflessness and solidarity. His actions serve as a testament to the deep bonds that form among soldiers at war and the lengths they are willing to go for one another.

@@ -1,0 +1,65 @@
+<div class="slideshow-container">
+    <div class="slide">
+      <img src="/images/desmond-doss-2.jpg" alt="Hero 1">
+      <div class="caption">War Hero</div>
+    </div>
+    <div class="slide">
+      <img src="/images/desmond-doss-3.jpg" alt="Hero 2">
+      <div class="caption">War Hero</div>
+    </div>
+    <div class="slide">
+      <img src="/images/doss_lg.jpg" alt="Hero 3">
+      <div class="caption">War Hero</div>
+    </div>
+</div>
+
+<style>
+    .slideshow-container {
+  position: relative;
+  width: 100%;
+  height: 400px;
+}
+
+.slide {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.slide .caption {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  color: white;
+  font-size: 18px;
+}
+</style>
+
+<script>
+    // JavaScript to control the slideshow
+var slides = document.getElementsByClassName("slide");
+var currentSlideIndex = 0;
+
+// Function to show the next slide
+function showNextSlide() {
+  slides[currentSlideIndex].style.display = "none";
+  currentSlideIndex = (currentSlideIndex + 1) % slides.length;
+  slides[currentSlideIndex].style.display = "block";
+}
+
+// Automatically transition to the next slide every 3 seconds
+setInterval(showNextSlide, 3000);
+
+// Show the first slide initially
+slides[currentSlideIndex].style.display = "block";
+</script>
+  
