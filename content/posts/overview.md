@@ -24,4 +24,6 @@ These war heroes exemplify the spirit and resilience of the American people duri
 World War II was a transformative period in American history, and these war heroes played a crucial role in shaping the outcome of the war. Their actions, bravery, and selflessness left an indelible mark on the nation's collective memory and serve as a reminder of the strength and determination of the American people in times of crisis. The sacrifices made by these war heroes contributed to the preservation of peace, the protection of democracy, and the progress of American society as a whole.
 
 ## First War Hero
+> Click on the Image !
+
 [![Image Description](/images/Alfred-1.jpg)](/posts/alfred-b-nietzel/)
