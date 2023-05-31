@@ -1,6 +1,5 @@
 baseURL = 'https://Firestorm.github.io/'
 relativeURLs = true
-uglyURLs = true
 languageCode = 'en-us'
 title = 'World War 2 War Heros '
 theme = 'ananke'
