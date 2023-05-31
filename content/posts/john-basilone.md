@@ -30,3 +30,6 @@ Following World War II, GySgt Basilone's remains were reinterred in the Arlingto
 “John ‘Manila John’ Basilone | World War II | U.S. Marine Corps | Medal of Honor Recipient.” Congressional Medal of Honor Society, www.cmohs.org/recipients/john-manila-john-basilone.
 
 Marine Corps University. “Marine Corps University > Research > Marine Corps History Division > Information for Units  > Medal of Honor Recipients by Unit > Sgt John Basilone.” Marine Corps University, www.usmcu.edu/Research/Marine-Corps-History-Division/Information-for-Units/Medal-of-Honor-Recipients-By-Unit/Sgt-John-Basilone.
+
+## Next Hero    
+[![Image Description](/images/Richard_Antrim.jpg)](/posts/richard-n-antrim/)

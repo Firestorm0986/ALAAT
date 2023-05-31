@@ -21,3 +21,6 @@ Desmond T. Doss's courageous actions throughout the war, carrying wounded soldie
 Home of Heroes. “Desmond T. Doss - Home of Heroes.” Home of Heroes, 11 Oct. 2021, homeofheroes.com/heroes-stories/world-war-ii/desmond-t-doss. 
 
 “Desmond Thomas Doss | World War II | U.S. Army | Medal of Honor Recipient.” Congressional Medal of Honor Society, www.cmohs.org/recipients/desmond-t-doss.
+
+## Next Hero    
+[![Image Description](/images/john-2.jpg)](/posts/john-basilone/)

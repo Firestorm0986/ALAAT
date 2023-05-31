@@ -16,4 +16,8 @@ Sergeant Alfred B. Nietzel distinguished himself by acts of gallantry and intrep
 ### Sources
 “Alfred B Nietzel | World War II | U.S. Army | Medal of Honor Recipient.” Congressional Medal of Honor Society, www.cmohs.org/recipients/alfred-b-nietzel 
 
+
+## Next Hero    
+> click on image
+
 [![Image Description](/images/Audie-murphy.jpg)](/posts/audie-leon-murphy/)

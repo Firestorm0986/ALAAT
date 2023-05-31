@@ -16,3 +16,6 @@ Second Lt. Murphy commanded Company B, which was attacked by six tanks and waves
 
 ### Sources
 “Audie Leon Murphy | World War II | U.S. Army | Medal of Honor Recipient.” Congressional Medal of Honor Society, www.cmohs.org/recipients/audie-l-murphy.
+
+## Next Hero    
+[![Image Description](/images/desmond-doss-2.jpg)](/posts/desmond-t-doss/)
