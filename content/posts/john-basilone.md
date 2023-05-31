@@ -4,7 +4,7 @@ featured_image: "/images/Basilone_J_0.jpg"
 description: A page dedicated to John Basilone
 date: 2023-05-23
 ---
-
+{{< John >}}
 ## Summary
 
 ## Full Story

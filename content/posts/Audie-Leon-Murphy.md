@@ -5,6 +5,8 @@ description: A page dedicated to Audie Leon Murphy
 date: 2023-05-23
 ---
 
+{{< Audie >}}
+
 ## Summary
 Second Lt. Murphy is considered a war hero due to his exceptional bravery, leadership, and selflessness in the face of overwhelming odds. He displayed unwavering courage by remaining at his command post, directing artillery fire and engaging the enemy, even when surrounded and exposed to German fire from multiple sides. His actions resulted in significant enemy casualties, saved his company from encirclement, and secured the objective they were defending. Murphy's indomitable spirit, refusal to retreat, and willingness to put himself in harm's way to protect his comrades exemplify the highest ideals of military heroism.
 

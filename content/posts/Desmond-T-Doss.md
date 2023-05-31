@@ -4,7 +4,7 @@ featured_image: "/images/doss_lg.jpg"
 description: A page dedicated to Desmond T. Doss
 date: 2023-05-23
 ---
-
+{{< Desmond >}}
 ## Summary
 Desmond T. Doss is considered a war hero due to his extraordinary bravery and dedication as a medic during World War II. Despite facing ridicule and opposition from his fellow soldiers due to his religious beliefs, Doss remained committed to his principles of non-violence. During the Battle of Okinawa, he displayed incredible courage and saved numerous lives by braving enemy fire to treat and rescue wounded soldiers. Doss's unwavering faith and selflessness, as well as his role in the successful assault on the Maeda Escarpment without any casualties, earned him the respect and admiration of his comrades. His story exemplifies the highest ideals of valor and compassion in the face of adversity.
 ## Full Story

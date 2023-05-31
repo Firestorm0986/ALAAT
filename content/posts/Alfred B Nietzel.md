@@ -5,6 +5,8 @@ description: A page dedicated to Alfred B Nietzel
 date: 2023-05-23
 ---
 
+{{< Alfred >}}
+
 ## Summary
 Sergeant Alfred B. Nietzel is considered a war hero for his extraordinary acts of bravery and selflessness during combat operations in Heistern, Germany on November 18, 1944. Despite being faced with a fierce enemy attack, he fought courageously, employing his machinegun with accuracy and intensity to slow down the advancing enemy. Recognizing the need for reinforcements, he selflessly ordered his squad members to seek aid while providing covering fire for their retreat. Even after exhausting his machinegun ammunition, he continued to engage the enemy with his rifle until he was killed by an enemy grenade. Sergeant Nietzel's exceptional heroism and sacrifice, going above and beyond the call of duty, exemplify the highest ideals of military service and bring great honor to himself, his unit, and the United States Army.
 
